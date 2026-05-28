@@ -1,3 +1,4 @@
 Team Project Github Test
 Member1 Sarang Han
 Member2 Yubin Jeon
+Member3 Eunseo Bae
